@@ -147,6 +147,7 @@ wandb/
 weights/
 *.weights
 *.pt
+!yolov8n.pt
 *.pb
 *.onnx
 *.engine
